@@ -16,6 +16,13 @@ Welcome to my Cybersecurity Blog Repository! This repo contains blog posts I’v
 - Shows alignment with the NIST CSF 2.0 functions: Govern, Identify, Protect, Detect, Respond, Recover.
 - Includes step-by-step configurations using Cisco 2911 Router and 2960 Switch.
 
+## 3. Building PyLog-Sentinel: My Mini-SOC Project in Python https://medium.com/@rukhuraj1/building-pylog-sentinel-my-mini-soc-project-in-python-f225495b9b56
+An **open-source Mini-SOC tool in Python** for log parsing, threat detection, and security alerting.  
+
+🔹 Detects brute-force login attempts  
+🔹 Flags port scans from denied connections  
+🔹 Exports parsed logs to JSON/CSV for SIEM integration  
+🔹 Logs security alerts into a separate alert file 
 
 
 ## 📬 Contact
